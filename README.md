@@ -11,3 +11,4 @@ http://www.jcreview.com/fulltext/197-1583479073.pdf
 https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0276-2
 https://www.researchgate.net/publication/317282022_Neural_Network_Classification_of_White_Blood_Cell_using_Microscopic_Images
 https://www.sciencedirect.com/science/article/pii/S1319157818303288
+https://docs.google.com/document/d/1uaTmYjNdWwz6JuH-9f1cszr7VPxfSEDH/edit
