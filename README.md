@@ -20,3 +20,9 @@ https://dergipark.org.tr/en/download/article-file/649638
 https://docs.google.com/document/d/1uaTmYjNdWwz6JuH-9f1cszr7VPxfSEDH/edit
 https://www.hindawi.com/journals/jhe/2020/6648574/
 https://www.overleaf.com/latex/templates/tagged/thesis
+
+
+24/12:
+https://www.sciencedirect.com/science/article/pii/S1110016817302831
+https://www.hindawi.com/journals/cmmm/2018/6125289/
+https://www.researchgate.net/publication/315364141_Automated_detection_and_classification_techniques_of_Acute_leukemia_using_image_processing_A_review
