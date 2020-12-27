@@ -26,3 +26,12 @@ https://www.overleaf.com/latex/templates/tagged/thesis
 https://www.sciencedirect.com/science/article/pii/S1110016817302831
 https://www.hindawi.com/journals/cmmm/2018/6125289/
 https://www.researchgate.net/publication/315364141_Automated_detection_and_classification_techniques_of_Acute_leukemia_using_image_processing_A_review
+
+
+
+28/12:
+https://arxiv.org/ftp/arxiv/papers/1406/1406.3282.pdf
+https://www.researchgate.net/publication/327587854_Improved_salp_swarm_algorithm_based_on_particle_swarm_optimization_for_feature_selection
+https://www.sciencedirect.com/science/article/pii/S1319157818303288
+https://www.researchgate.net/publication/325137356_Breast_cancer_screening_using_convolutional_neural_network_and_follow-up_digital_mammography
+https://www.mdpi.com/2075-4418/9/3/104/htm
