@@ -35,3 +35,13 @@ https://www.researchgate.net/publication/327587854_Improved_salp_swarm_algorithm
 https://www.sciencedirect.com/science/article/pii/S1319157818303288
 https://www.researchgate.net/publication/325137356_Breast_cancer_screening_using_convolutional_neural_network_and_follow-up_digital_mammography
 https://www.mdpi.com/2075-4418/9/3/104/htm
+
+4/1:
+https://docs.google.com/document/d/1ANpOZrGIM8YkbHcVhFne027g9SQYAt3uo1ZBgWvUBaM/edit
+https://www.hindawi.com/journals/cmmm/2016/9514707/
+https://www.hindawi.com/journals/cmmm/2013/137392/
+https://www.hindawi.com/journals/cmmm/2013/395071/
+https://www.hindawi.com/journals/cmmm/2018/6125289/
+https://bibliotecadigital.ipb.pt/bitstream/10198/22527/1/machine.pdf
+https://arxiv.org/ftp/arxiv/papers/1406/1406.6946.pdf
+https://ieeexplore.ieee.org/document/7782368?denied=
