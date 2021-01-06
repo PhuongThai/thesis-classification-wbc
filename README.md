@@ -45,3 +45,9 @@ https://www.hindawi.com/journals/cmmm/2018/6125289/
 https://bibliotecadigital.ipb.pt/bitstream/10198/22527/1/machine.pdf
 https://arxiv.org/ftp/arxiv/papers/1406/1406.6946.pdf
 https://ieeexplore.ieee.org/document/7782368?denied=
+
+6/1:
+https://www.nature.com/articles/srep14938
+https://www.researchgate.net/publication/279523460_A_Survey_of_Swarm_Algorithms_Applied_to_Discrete_Optimization_Problems
+https://journals.sagepub.com/doi/10.1177/1729881417705969
+https://en.wikipedia.org/wiki/Combinatorial_optimization
